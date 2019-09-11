@@ -12,7 +12,6 @@ media/
 */__init__/*
 *__pycache__/*
 *.pyc
-checkout/migrations/0002_auto_20190908_1451.py
 cart/__pycache__/views.cpython-36.pyc
 ecommerce/__pycache__/settings.cpython-36.pyc
 ecommerce/__pycache__/urls.cpython-36.pyc
